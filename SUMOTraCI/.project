@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SUMOTraCI</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>SUMO_HOME</name>
+			<value>file:/C:/tools/SUMO/sumo-0.22.0/tools</value>
+		</variable>
+	</variableList>
+</projectDescription>

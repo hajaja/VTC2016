@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+<variableSpeedSign file="vss\edge23714486s0.def.xml" id="vss23714486#0" lanes="23714486#0_1 23714486#0_0"/>
+<variableSpeedSign file="vss\edge118041104s0.def.xml" id="vss118041104#0" lanes="118041104#0_0 118041104#0_1"/>
+<variableSpeedSign file="vss\edge4218823s0.def.xml" id="vss4218823#0" lanes="4218823#0_0 4218823#0_1"/>
+<variableSpeedSign file="vss\edge132545199.def.xml" id="vss132545199" lanes="132545199_1 132545199_0 132545199_3 132545199_2"/>
+<variableSpeedSign file="vss\edge4097371.def.xml" id="vss4097371" lanes="4097371_0"/>
+<variableSpeedSign file="vss\edge132539912.def.xml" id="vss132539912" lanes="132539912_0"/>
+<variableSpeedSign file="vss\edge23450700.def.xml" id="vss23450700" lanes="23450700_0"/>
+<variableSpeedSign file="vss\edge157434654s2.def.xml" id="vss157434654#2" lanes="157434654#2_1 157434654#2_0"/>
+<variableSpeedSign file="vss\edge220567386.def.xml" id="vss220567386" lanes="220567386_0"/>
+<variableSpeedSign file="vss\edge160312590.def.xml" id="vss160312590" lanes="160312590_2 160312590_0 160312590_1"/>
+<variableSpeedSign file="vss\edge23450702s1.def.xml" id="vss23450702#1" lanes="23450702#1_0"/>
+<variableSpeedSign file="vss\edge132624422.def.xml" id="vss132624422" lanes="132624422_0 132624422_1 132624422_2"/>
+<variableSpeedSign file="vss\edge157434654s0.def.xml" id="vss157434654#0" lanes="157434654#0_1 157434654#0_0"/>
+<variableSpeedSign file="vss\edge258491542.def.xml" id="vss258491542" lanes="258491542_0 258491542_1 258491542_2 258491542_3"/>
+<variableSpeedSign file="vss\edge-37347656.def.xml" id="vss-37347656" lanes="-37347656_1 -37347656_0"/>
+<variableSpeedSign file="vss\edge322456250.def.xml" id="vss322456250" lanes="322456250_2 322456250_1 322456250_0"/>
+<variableSpeedSign file="vss\edge10695212.def.xml" id="vss10695212" lanes="10695212_1 10695212_2 10695212_0"/>
+<variableSpeedSign file="vss\edge111465042.def.xml" id="vss111465042" lanes="111465042_0 111465042_2 111465042_1 111465042_3"/>
+<variableSpeedSign file="vss\edge301084487.def.xml" id="vss301084487" lanes="301084487_2 301084487_0 301084487_1"/>
+<variableSpeedSign file="vss\edge21624791s2.def.xml" id="vss21624791#2" lanes="21624791#2_1 21624791#2_0"/>
+<variableSpeedSign file="vss\edge85417941s0.def.xml" id="vss85417941#0" lanes="85417941#0_1 85417941#0_0"/>
+<variableSpeedSign file="vss\edge176886890.def.xml" id="vss176886890" lanes="176886890_1 176886890_0"/>
+<variableSpeedSign file="vss\edge42551572s1.def.xml" id="vss42551572#1" lanes="42551572#1_1 42551572#1_0"/>
+<variableSpeedSign file="vss\edge11624079s1.def.xml" id="vss11624079#1" lanes="11624079#1_0 11624079#1_1"/>
+<variableSpeedSign file="vss\edge219698231.def.xml" id="vss219698231" lanes="219698231_0"/>
+<variableSpeedSign file="vss\edge157429592s0.def.xml" id="vss157429592#0" lanes="157429592#0_0"/>
+<variableSpeedSign file="vss\edge219188462.def.xml" id="vss219188462" lanes="219188462_0 219188462_1 219188462_2 219188462_3"/>
+<variableSpeedSign file="vss\edge11624006.def.xml" id="vss11624006" lanes="11624006_1 11624006_2 11624006_0"/>
+<variableSpeedSign file="vss\edge132406529.def.xml" id="vss132406529" lanes="132406529_1 132406529_0"/>
+<variableSpeedSign file="vss\edge132540321.def.xml" id="vss132540321" lanes="132540321_0 132540321_1"/>
+<variableSpeedSign file="vss\edge33431432.def.xml" id="vss33431432" lanes="33431432_0 33431432_1"/>
+<variableSpeedSign file="vss\edge208424304s1.def.xml" id="vss208424304#1" lanes="208424304#1_2 208424304#1_1 208424304#1_0"/>
+<variableSpeedSign file="vss\edge10695210.def.xml" id="vss10695210" lanes="10695210_0 10695210_1"/>
+<variableSpeedSign file="vss\edge56700147s0.def.xml" id="vss56700147#0" lanes="56700147#0_2 56700147#0_0 56700147#0_1"/>
+<variableSpeedSign file="vss\edge157104087.def.xml" id="vss157104087" lanes="157104087_1 157104087_0"/>
+<variableSpeedSign file="vss\edge132408448.def.xml" id="vss132408448" lanes="132408448_1 132408448_2 132408448_0"/>
+<variableSpeedSign file="vss\edge147726287s1.def.xml" id="vss147726287#1" lanes="147726287#1_1 147726287#1_0"/>
+<variableSpeedSign file="vss\edge47313732s2.def.xml" id="vss47313732#2" lanes="47313732#2_1 47313732#2_0"/>
+<variableSpeedSign file="vss\edge301084454.def.xml" id="vss301084454" lanes="301084454_1 301084454_0 301084454_2"/>
+<variableSpeedSign file="vss\edge301084497.def.xml" id="vss301084497" lanes="301084497_3 301084497_1 301084497_2 301084497_0"/>
+<variableSpeedSign file="vss\edge157393120s3.def.xml" id="vss157393120#3" lanes="157393120#3_0 157393120#3_1"/>
+<variableSpeedSign file="vss\edge23455340.def.xml" id="vss23455340" lanes="23455340_0 23455340_1"/>
+<variableSpeedSign file="vss\edge26784170s2.def.xml" id="vss26784170#2" lanes="26784170#2_1 26784170#2_0"/>
+<variableSpeedSign file="vss\edge4218823s2.def.xml" id="vss4218823#2" lanes="4218823#2_0 4218823#2_1"/>
+<variableSpeedSign file="vss\edge155444200.def.xml" id="vss155444200" lanes="155444200_1 155444200_0"/>
+<variableSpeedSign file="vss\edge208883386s0.def.xml" id="vss208883386#0" lanes="208883386#0_0"/>
+<variableSpeedSign file="vss\edge100138692.def.xml" id="vss100138692" lanes="100138692_0 100138692_1"/>
+<variableSpeedSign file="vss\edge132405343s0.def.xml" id="vss132405343#0" lanes="132405343#0_0"/>
+<variableSpeedSign file="vss\edge62081149s0.def.xml" id="vss62081149#0" lanes="62081149#0_1 62081149#0_2 62081149#0_3 62081149#0_0"/>
+<variableSpeedSign file="vss\edge338854138.def.xml" id="vss338854138" lanes="338854138_0 338854138_1"/>
+<variableSpeedSign file="vss\edge9614234.def.xml" id="vss9614234" lanes="9614234_0 9614234_1"/>
+<variableSpeedSign file="vss\edge286321028.def.xml" id="vss286321028" lanes="286321028_0 286321028_1"/>
+<variableSpeedSign file="vss\edge258503936.def.xml" id="vss258503936" lanes="258503936_1 258503936_0 258503936_5 258503936_4 258503936_3 258503936_2"/>
+<variableSpeedSign file="vss\edge-338854138.def.xml" id="vss-338854138" lanes="-338854138_1 -338854138_0"/>
+<variableSpeedSign file="vss\edge295644508.def.xml" id="vss295644508" lanes="295644508_1 295644508_0 295644508_3 295644508_2"/>
+<variableSpeedSign file="vss\edge328980684.def.xml" id="vss328980684" lanes="328980684_0 328980684_3 328980684_2 328980684_1"/>
+<variableSpeedSign file="vss\edge278328108.def.xml" id="vss278328108" lanes="278328108_2 278328108_0 278328108_1"/>
+<variableSpeedSign file="vss\edge11624079s0.def.xml" id="vss11624079#0" lanes="11624079#0_1 11624079#0_0"/>
+<variableSpeedSign file="vss\edge258491539.def.xml" id="vss258491539" lanes="258491539_3 258491539_0 258491539_1 258491539_2"/>
+<variableSpeedSign file="vss\edge338209140.def.xml" id="vss338209140" lanes="338209140_1 338209140_2 338209140_0"/>
+<variableSpeedSign file="vss\edge219098057.def.xml" id="vss219098057" lanes="219098057_0 219098057_1"/>
+<variableSpeedSign file="vss\edge5367035.def.xml" id="vss5367035" lanes="5367035_0"/>
+<variableSpeedSign file="vss\edge30746500.def.xml" id="vss30746500" lanes="30746500_0 30746500_1 30746500_2"/>
+<variableSpeedSign file="vss\edge76128217.def.xml" id="vss76128217" lanes="76128217_1 76128217_2 76128217_0"/>
+<variableSpeedSign file="vss\edge328984619.def.xml" id="vss328984619" lanes="328984619_1 328984619_2 328984619_0"/>
+<variableSpeedSign file="vss\edge5367057.def.xml" id="vss5367057" lanes="5367057_1 5367057_0"/>
+<variableSpeedSign file="vss\edge321188527.def.xml" id="vss321188527" lanes="321188527_1 321188527_0 321188527_2"/>
+<variableSpeedSign file="vss\edge5367061.def.xml" id="vss5367061" lanes="5367061_1 5367061_0"/>
+<variableSpeedSign file="vss\edge132525352.def.xml" id="vss132525352" lanes="132525352_0"/>
+<variableSpeedSign file="vss\edge132405369.def.xml" id="vss132405369" lanes="132405369_0"/>
+<variableSpeedSign file="vss\edge157104082.def.xml" id="vss157104082" lanes="157104082_0 157104082_1"/>
+<variableSpeedSign file="vss\edge37372948.def.xml" id="vss37372948" lanes="37372948_0"/>
+<variableSpeedSign file="vss\edge219698233.def.xml" id="vss219698233" lanes="219698233_0 219698233_1 219698233_2"/>
+<variableSpeedSign file="vss\edge295644509.def.xml" id="vss295644509" lanes="295644509_0 295644509_2 295644509_1"/>
+<variableSpeedSign file="vss\edge4229599s0.def.xml" id="vss4229599#0" lanes="4229599#0_1 4229599#0_0"/>
+<variableSpeedSign file="vss\edge86144284.def.xml" id="vss86144284" lanes="86144284_0 86144284_1"/>
+<variableSpeedSign file="vss\edge115106778s1.def.xml" id="vss115106778#1" lanes="115106778#1_2 115106778#1_1 115106778#1_0"/>
+<variableSpeedSign file="vss\edge133419469.def.xml" id="vss133419469" lanes="133419469_0"/>
+<variableSpeedSign file="vss\edge47313732s0.def.xml" id="vss47313732#0" lanes="47313732#0_1 47313732#0_0"/>
+<variableSpeedSign file="vss\edge24024442.def.xml" id="vss24024442" lanes="24024442_1 24024442_0"/>
+<variableSpeedSign file="vss\edge23714486s1.def.xml" id="vss23714486#1" lanes="23714486#1_0 23714486#1_1"/>
+<variableSpeedSign file="vss\edge328980686.def.xml" id="vss328980686" lanes="328980686_2 328980686_1 328980686_0"/>
+<variableSpeedSign file="vss\edge329035704.def.xml" id="vss329035704" lanes="329035704_1 329035704_0 329035704_3 329035704_2"/>
+<variableSpeedSign file="vss\edge25606745.def.xml" id="vss25606745" lanes="25606745_0"/>
+<variableSpeedSign file="vss\edge24560035.def.xml" id="vss24560035" lanes="24560035_0 24560035_1"/>
+<variableSpeedSign file="vss\edge302370855.def.xml" id="vss302370855" lanes="302370855_1 302370855_0 302370855_3 302370855_2"/>
+<variableSpeedSign file="vss\edge132624485.def.xml" id="vss132624485" lanes="132624485_0"/>
+<variableSpeedSign file="vss\edge329035703.def.xml" id="vss329035703" lanes="329035703_0 329035703_2 329035703_1 329035703_3"/>
+<variableSpeedSign file="vss\edge283076458.def.xml" id="vss283076458" lanes="283076458_2 283076458_0 283076458_1"/>
+<variableSpeedSign file="vss\edge51898854s1.def.xml" id="vss51898854#1" lanes="51898854#1_2 51898854#1_1 51898854#1_0"/>
+<variableSpeedSign file="vss\edge132624449.def.xml" id="vss132624449" lanes="132624449_1 132624449_0"/>
+<variableSpeedSign file="vss\edge31661491.def.xml" id="vss31661491" lanes="31661491_1 31661491_0"/>
+<variableSpeedSign file="vss\edge70913328.def.xml" id="vss70913328" lanes="70913328_1 70913328_0"/>
+<variableSpeedSign file="vss\edge157274919s0.def.xml" id="vss157274919#0" lanes="157274919#0_0 157274919#0_1"/>
+<variableSpeedSign file="vss\edge302370856.def.xml" id="vss302370856" lanes="302370856_0 302370856_1"/>
+<variableSpeedSign file="vss\edge258503935.def.xml" id="vss258503935" lanes="258503935_2 258503935_1 258503935_0 258503935_4 258503935_3"/>
+<variableSpeedSign file="vss\edge85417941s1.def.xml" id="vss85417941#1" lanes="85417941#1_0 85417941#1_1"/>
+<variableSpeedSign file="vss\edge42551572s0.def.xml" id="vss42551572#0" lanes="42551572#0_1 42551572#0_0"/>
+<variableSpeedSign file="vss\edge5552874.def.xml" id="vss5552874" lanes="5552874_0 5552874_1 5552874_2"/>
+<variableSpeedSign file="vss\edge47426158.def.xml" id="vss47426158" lanes="47426158_0 47426158_1 47426158_2"/>
+<variableSpeedSign file="vss\edge4008379.def.xml" id="vss4008379" lanes="4008379_0"/>
+<variableSpeedSign file="vss\edge329035705.def.xml" id="vss329035705" lanes="329035705_0 329035705_2 329035705_1"/>
+<variableSpeedSign file="vss\edge140559827.def.xml" id="vss140559827" lanes="140559827_1 140559827_0"/>
+<variableSpeedSign file="vss\edge135593540s1.def.xml" id="vss135593540#1" lanes="135593540#1_1 135593540#1_0 135593540#1_2"/>
+<variableSpeedSign file="vss\edge317362560.def.xml" id="vss317362560" lanes="317362560_0"/>
+<variableSpeedSign file="vss\edge302370860.def.xml" id="vss302370860" lanes="302370860_0 302370860_1 302370860_2"/>
+<variableSpeedSign file="vss\edge-28523795.def.xml" id="vss-28523795" lanes="-28523795_1 -28523795_0"/>
+<variableSpeedSign file="vss\edge141241843.def.xml" id="vss141241843" lanes="141241843_0 141241843_1"/>
+<variableSpeedSign file="vss\edge245123473.def.xml" id="vss245123473" lanes="245123473_1 245123473_0"/>
+<variableSpeedSign file="vss\edge187067365.def.xml" id="vss187067365" lanes="187067365_0"/>
+<variableSpeedSign file="vss\edge208913387.def.xml" id="vss208913387" lanes="208913387_2 208913387_3 208913387_0 208913387_1"/>
+<variableSpeedSign file="vss\edge5069540s1.def.xml" id="vss5069540#1" lanes="5069540#1_1 5069540#1_0"/>
+<variableSpeedSign file="vss\edge154502587.def.xml" id="vss154502587" lanes="154502587_0 154502587_1"/>
+<variableSpeedSign file="vss\edge41676631.def.xml" id="vss41676631" lanes="41676631_3 41676631_0 41676631_2 41676631_1"/>
+<variableSpeedSign file="vss\edge326979311.def.xml" id="vss326979311" lanes="326979311_2 326979311_0 326979311_1"/>
+<variableSpeedSign file="vss\edge4218823s1.def.xml" id="vss4218823#1" lanes="4218823#1_1 4218823#1_0"/>
+<variableSpeedSign file="vss\edge5367050.def.xml" id="vss5367050" lanes="5367050_0"/>
+<variableSpeedSign file="vss\edge32021843s1.def.xml" id="vss32021843#1" lanes="32021843#1_1 32021843#1_0"/>
+<variableSpeedSign file="vss\edge283076461.def.xml" id="vss283076461" lanes="283076461_0 283076461_1"/>
+<variableSpeedSign file="vss\edge147726287s3.def.xml" id="vss147726287#3" lanes="147726287#3_1 147726287#3_0"/>
+<variableSpeedSign file="vss\edge157434654s1.def.xml" id="vss157434654#1" lanes="157434654#1_0 157434654#1_1"/>
+<variableSpeedSign file="vss\edge22887858.def.xml" id="vss22887858" lanes="22887858_0 22887858_2 22887858_1"/>
+<variableSpeedSign file="vss\edge260192889.def.xml" id="vss260192889" lanes="260192889_0 260192889_1 260192889_2"/>
+<variableSpeedSign file="vss\edge47313732s3.def.xml" id="vss47313732#3" lanes="47313732#3_0 47313732#3_1"/>
+<variableSpeedSign file="vss\edge26784170s1.def.xml" id="vss26784170#1" lanes="26784170#1_1 26784170#1_0"/>
+<variableSpeedSign file="vss\edge318531317.def.xml" id="vss318531317" lanes="318531317_0 318531317_1"/>
+<variableSpeedSign file="vss\edge132624473.def.xml" id="vss132624473" lanes="132624473_0"/>
+<variableSpeedSign file="vss\edge186459295s1.def.xml" id="vss186459295#1" lanes="186459295#1_2 186459295#1_0 186459295#1_1"/>
+<variableSpeedSign file="vss\edge328980685.def.xml" id="vss328980685" lanes="328980685_2 328980685_1 328980685_0"/>
+<variableSpeedSign file="vss\edge47426157.def.xml" id="vss47426157" lanes="47426157_1 47426157_2 47426157_0"/>
+<variableSpeedSign file="vss\edge47313732s4.def.xml" id="vss47313732#4" lanes="47313732#4_1 47313732#4_0"/>
+<variableSpeedSign file="vss\edge22909113.def.xml" id="vss22909113" lanes="22909113_1 22909113_0"/>
+<variableSpeedSign file="vss\edge-23543117s0.def.xml" id="vss-23543117#0" lanes="-23543117#0_0"/>
+<variableSpeedSign file="vss\edge51898858s1.def.xml" id="vss51898858#1" lanes="51898858#1_1 51898858#1_2 51898858#1_0"/>
+<variableSpeedSign file="vss\edge30833219.def.xml" id="vss30833219" lanes="30833219_0"/>
+<variableSpeedSign file="vss\edge198188181.def.xml" id="vss198188181" lanes="198188181_1 198188181_0"/>
+<variableSpeedSign file="vss\edge-338407179.def.xml" id="vss-338407179" lanes="-338407179_0 -338407179_1"/>
+<variableSpeedSign file="vss\edge147860624s0.def.xml" id="vss147860624#0" lanes="147860624#0_1 147860624#0_0"/>
+<variableSpeedSign file="vss\edge328980682.def.xml" id="vss328980682" lanes="328980682_2 328980682_1 328980682_0 328980682_3"/>
+<variableSpeedSign file="vss\edge226991213.def.xml" id="vss226991213" lanes="226991213_2 226991213_1 226991213_0"/>
+<variableSpeedSign file="vss\edge6187383.def.xml" id="vss6187383" lanes="6187383_0 6187383_1"/>
+<variableSpeedSign file="vss\edge132405373.def.xml" id="vss132405373" lanes="132405373_0 132405373_1"/>
+<variableSpeedSign file="vss\edge85417940s1.def.xml" id="vss85417940#1" lanes="85417940#1_1 85417940#1_0"/>
+<variableSpeedSign file="vss\edge5069540s0.def.xml" id="vss5069540#0" lanes="5069540#0_1 5069540#0_0"/>
+<variableSpeedSign file="vss\edge158695458.def.xml" id="vss158695458" lanes="158695458_0 158695458_1"/>
+<variableSpeedSign file="vss\edge133419477.def.xml" id="vss133419477" lanes="133419477_1 133419477_0"/>
+<variableSpeedSign file="vss\edge144886432s1.def.xml" id="vss144886432#1" lanes="144886432#1_2 144886432#1_1 144886432#1_0"/>
+<variableSpeedSign file="vss\edge132614482.def.xml" id="vss132614482" lanes="132614482_1 132614482_0"/>
+<variableSpeedSign file="vss\edge258491536.def.xml" id="vss258491536" lanes="258491536_0 258491536_1 258491536_2"/>
+<variableSpeedSign file="vss\edge295516788.def.xml" id="vss295516788" lanes="295516788_2 295516788_3 295516788_0 295516788_1"/>
+<variableSpeedSign file="vss\edge208913390.def.xml" id="vss208913390" lanes="208913390_0"/>
+<variableSpeedSign file="vss\edge49210512.def.xml" id="vss49210512" lanes="49210512_0"/>
+<variableSpeedSign file="vss\edge203159184.def.xml" id="vss203159184" lanes="203159184_0"/>
+<variableSpeedSign file="vss\edge31415356.def.xml" id="vss31415356" lanes="31415356_0 31415356_1"/>
+<variableSpeedSign file="vss\edge315649555.def.xml" id="vss315649555" lanes="315649555_2 315649555_3 315649555_0 315649555_1"/>
+<variableSpeedSign file="vss\edge4218820.def.xml" id="vss4218820" lanes="4218820_0"/>
+<variableSpeedSign file="vss\edge219698234.def.xml" id="vss219698234" lanes="219698234_0 219698234_1 219698234_2"/>
+<variableSpeedSign file="vss\edge132405343s1.def.xml" id="vss132405343#1" lanes="132405343#1_0"/>
+<variableSpeedSign file="vss\edge132525347.def.xml" id="vss132525347" lanes="132525347_0"/>
+<variableSpeedSign file="vss\edge154507084s1.def.xml" id="vss154507084#1" lanes="154507084#1_1 154507084#1_0"/>
+<variableSpeedSign file="vss\edge89528650.def.xml" id="vss89528650" lanes="89528650_0 89528650_1"/>
+<variableSpeedSign file="vss\edge115106779.def.xml" id="vss115106779" lanes="115106779_1 115106779_0"/>
+<variableSpeedSign file="vss\edge219188458.def.xml" id="vss219188458" lanes="219188458_0 219188458_2 219188458_1"/>
+<variableSpeedSign file="vss\edge132540383.def.xml" id="vss132540383" lanes="132540383_0"/>
+<variableSpeedSign file="vss\edge47313732s1.def.xml" id="vss47313732#1" lanes="47313732#1_1 47313732#1_0"/>
+<variableSpeedSign file="vss\edge132405372.def.xml" id="vss132405372" lanes="132405372_0 132405372_1 132405372_2"/>
+<variableSpeedSign file="vss\edge20895437.def.xml" id="vss20895437" lanes="20895437_3 20895437_2 20895437_1 20895437_0"/>
+<variableSpeedSign file="vss\edge56700148s1.def.xml" id="vss56700148#1" lanes="56700148#1_0 56700148#1_1 56700148#1_2 56700148#1_3"/>
+<variableSpeedSign file="vss\edge65417594.def.xml" id="vss65417594" lanes="65417594_1 65417594_0 65417594_2"/>
+<variableSpeedSign file="vss\edge254138019.def.xml" id="vss254138019" lanes="254138019_0"/>
+<variableSpeedSign file="vss\edge301084576.def.xml" id="vss301084576" lanes="301084576_3 301084576_0 301084576_1 301084576_2"/>
+<variableSpeedSign file="vss\edge-32064260s1.def.xml" id="vss-32064260#1" lanes="-32064260#1_1 -32064260#1_0"/>
+<variableSpeedSign file="vss\edge258503938.def.xml" id="vss258503938" lanes="258503938_1 258503938_0"/>
+<variableSpeedSign file="vss\edge-226991212.def.xml" id="vss-226991212" lanes="-226991212_1 -226991212_0"/>
+<variableSpeedSign file="vss\edge4390494.def.xml" id="vss4390494" lanes="4390494_1 4390494_0"/>
+<variableSpeedSign file="vss\edge157140427.def.xml" id="vss157140427" lanes="157140427_1 157140427_0 157140427_2"/>
+<variableSpeedSign file="vss\edge186461131s0.def.xml" id="vss186461131#0" lanes="186461131#0_0 186461131#0_2 186461131#0_1 186461131#0_3"/>
+<variableSpeedSign file="vss\edge253093566.def.xml" id="vss253093566" lanes="253093566_0 253093566_1"/>
+<variableSpeedSign file="vss\edge5069544.def.xml" id="vss5069544" lanes="5069544_3 5069544_2 5069544_1 5069544_0"/>
+<variableSpeedSign file="vss\edge-131382643.def.xml" id="vss-131382643" lanes="-131382643_1 -131382643_0"/>
+<variableSpeedSign file="vss\edge132624438.def.xml" id="vss132624438" lanes="132624438_1 132624438_0"/>
+<variableSpeedSign file="vss\edge144886433.def.xml" id="vss144886433" lanes="144886433_0 144886433_1 144886433_2"/>
+<variableSpeedSign file="vss\edge302370859.def.xml" id="vss302370859" lanes="302370859_2 302370859_1 302370859_0"/>
+<variableSpeedSign file="vss\edge151054054s1.def.xml" id="vss151054054#1" lanes="151054054#1_0 151054054#1_1"/>
+<variableSpeedSign file="vss\edge159182247.def.xml" id="vss159182247" lanes="159182247_0"/>
+<variableSpeedSign file="vss\edge96096418.def.xml" id="vss96096418" lanes="96096418_0"/>
+<variableSpeedSign file="vss\edge21624791s1.def.xml" id="vss21624791#1" lanes="21624791#1_1 21624791#1_0"/>
+<variableSpeedSign file="vss\edge203091859.def.xml" id="vss203091859" lanes="203091859_1 203091859_0 203091859_2"/>
+<variableSpeedSign file="vss\edge27404213.def.xml" id="vss27404213" lanes="27404213_2 27404213_1 27404213_0"/>
+<variableSpeedSign file="vss\edge6186296.def.xml" id="vss6186296" lanes="6186296_0 6186296_3 6186296_4 6186296_1 6186296_2"/>
+<variableSpeedSign file="vss\edge157393120s2.def.xml" id="vss157393120#2" lanes="157393120#2_0 157393120#2_1"/>
+<variableSpeedSign file="vss\edge278327345.def.xml" id="vss278327345" lanes="278327345_2 278327345_1 278327345_0"/>
+<variableSpeedSign file="vss\edge33432714.def.xml" id="vss33432714" lanes="33432714_1 33432714_0"/>
+<variableSpeedSign file="vss\edge186459295s0.def.xml" id="vss186459295#0" lanes="186459295#0_1 186459295#0_2 186459295#0_0"/>
+<variableSpeedSign file="vss\edge166046314.def.xml" id="vss166046314" lanes="166046314_1 166046314_0"/>
+<variableSpeedSign file="vss\edge56700148s0.def.xml" id="vss56700148#0" lanes="56700148#0_0 56700148#0_1 56700148#0_2 56700148#0_3"/>
+<variableSpeedSign file="vss\edge62078861s1.def.xml" id="vss62078861#1" lanes="62078861#1_0 62078861#1_1"/>
+<variableSpeedSign file="vss\edge328980687.def.xml" id="vss328980687" lanes="328980687_0"/>
+<variableSpeedSign file="vss\edge253093567.def.xml" id="vss253093567" lanes="253093567_0 253093567_1 253093567_2 253093567_3"/>
+<variableSpeedSign file="vss\edge81852046.def.xml" id="vss81852046" lanes="81852046_0 81852046_2 81852046_1"/>
+<variableSpeedSign file="vss\edge322456246.def.xml" id="vss322456246" lanes="322456246_0 322456246_3 322456246_2 322456246_1"/>
+<variableSpeedSign file="vss\edge23450701.def.xml" id="vss23450701" lanes="23450701_0"/>
+<variableSpeedSign file="vss\edge186461131s1.def.xml" id="vss186461131#1" lanes="186461131#1_1 186461131#1_0 186461131#1_3 186461131#1_2"/>
+<variableSpeedSign file="vss\edge133860033.def.xml" id="vss133860033" lanes="133860033_1 133860033_0 133860033_3 133860033_2"/>
+<variableSpeedSign file="vss\edge5229976.def.xml" id="vss5229976" lanes="5229976_1 5229976_0"/>
+<variableSpeedSign file="vss\edge150031245.def.xml" id="vss150031245" lanes="150031245_2 150031245_3 150031245_0 150031245_1"/>
+<variableSpeedSign file="vss\edge115106778s2.def.xml" id="vss115106778#2" lanes="115106778#2_1 115106778#2_0 115106778#2_2"/>
+<variableSpeedSign file="vss\edge100132777.def.xml" id="vss100132777" lanes="100132777_1 100132777_0"/>
+<variableSpeedSign file="vss\edge208913380.def.xml" id="vss208913380" lanes="208913380_1 208913380_0"/>
+<variableSpeedSign file="vss\edge25698361.def.xml" id="vss25698361" lanes="25698361_0 25698361_2 25698361_1"/>
+<variableSpeedSign file="vss\edge147726287s2.def.xml" id="vss147726287#2" lanes="147726287#2_1 147726287#2_0"/>
+<variableSpeedSign file="vss\edge208913385.def.xml" id="vss208913385" lanes="208913385_0 208913385_1 208913385_2 208913385_3"/>
+<variableSpeedSign file="vss\edge150109682.def.xml" id="vss150109682" lanes="150109682_0"/>
+<variableSpeedSign file="vss\edge201168470.def.xml" id="vss201168470" lanes="201168470_1 201168470_0"/>
+<variableSpeedSign file="vss\edge80266375.def.xml" id="vss80266375" lanes="80266375_2 80266375_1 80266375_0"/>
+<variableSpeedSign file="vss\edge206080341.def.xml" id="vss206080341" lanes="206080341_0 206080341_1"/>
+<variableSpeedSign file="vss\edge23450712.def.xml" id="vss23450712" lanes="23450712_0 23450712_1"/>
+<variableSpeedSign file="vss\edge328980688.def.xml" id="vss328980688" lanes="328980688_0 328980688_1"/>
+<variableSpeedSign file="vss\edge157393120s1.def.xml" id="vss157393120#1" lanes="157393120#1_0 157393120#1_1"/>
+<variableSpeedSign file="vss\edge4008378.def.xml" id="vss4008378" lanes="4008378_0"/>
+<variableSpeedSign file="vss\edge33432713s1.def.xml" id="vss33432713#1" lanes="33432713#1_1 33432713#1_0"/>
+<variableSpeedSign file="vss\edge118041104s1.def.xml" id="vss118041104#1" lanes="118041104#1_0 118041104#1_1"/>
+<variableSpeedSign file="vss\edge226991211.def.xml" id="vss226991211" lanes="226991211_1 226991211_0"/>
+<variableSpeedSign file="vss\edge301094091.def.xml" id="vss301094091" lanes="301094091_2 301094091_3 301094091_0 301094091_1"/>
+<variableSpeedSign file="vss\edge157435215.def.xml" id="vss157435215" lanes="157435215_1 157435215_0"/>
+<variableSpeedSign file="vss\edge-32064260s0.def.xml" id="vss-32064260#0" lanes="-32064260#0_1 -32064260#0_0"/>
+<variableSpeedSign file="vss\edge301084567.def.xml" id="vss301084567" lanes="301084567_2 301084567_1 301084567_0"/>
+<variableSpeedSign file="vss\edge338209141.def.xml" id="vss338209141" lanes="338209141_0 338209141_1"/>
+<variableSpeedSign file="vss\edge21624791s0.def.xml" id="vss21624791#0" lanes="21624791#0_1 21624791#0_0"/>
+<variableSpeedSign file="vss\edge33434245.def.xml" id="vss33434245" lanes="33434245_1 33434245_0"/>
+<variableSpeedSign file="vss\edge208883386s1.def.xml" id="vss208883386#1" lanes="208883386#1_0"/>
+<variableSpeedSign file="vss\edge135342517s0.def.xml" id="vss135342517#0" lanes="135342517#0_0 135342517#0_1"/>
+<variableSpeedSign file="vss\edge132614489.def.xml" id="vss132614489" lanes="132614489_0 132614489_1"/>
+<variableSpeedSign file="vss\edge204001544.def.xml" id="vss204001544" lanes="204001544_0 204001544_1"/>
+<variableSpeedSign file="vss\edge160207521.def.xml" id="vss160207521" lanes="160207521_1 160207521_0"/>
+<variableSpeedSign file="vss\edge-32064261.def.xml" id="vss-32064261" lanes="-32064261_1 -32064261_0"/>
+<variableSpeedSign file="vss\edge302370857.def.xml" id="vss302370857" lanes="302370857_1 302370857_0"/>
+<variableSpeedSign file="vss\edge219698230s1.def.xml" id="vss219698230#1" lanes="219698230#1_0"/>
+<variableSpeedSign file="vss\edge208913384.def.xml" id="vss208913384" lanes="208913384_0"/>
+<variableSpeedSign file="vss\edge338407178.def.xml" id="vss338407178" lanes="338407178_0 338407178_1 338407178_2"/>
+<variableSpeedSign file="vss\edge322456245.def.xml" id="vss322456245" lanes="322456245_1 322456245_0 322456245_2"/>
+<variableSpeedSign file="vss\edge56700147s1.def.xml" id="vss56700147#1" lanes="56700147#1_1 56700147#1_2 56700147#1_0"/>
+<variableSpeedSign file="vss\edge51898858s0.def.xml" id="vss51898858#0" lanes="51898858#0_2 51898858#0_0 51898858#0_1"/>
+<variableSpeedSign file="vss\edge147860624s1.def.xml" id="vss147860624#1" lanes="147860624#1_0 147860624#1_1"/>
+<variableSpeedSign file="vss\edge-205996114.def.xml" id="vss-205996114" lanes="-205996114_0"/>
+<variableSpeedSign file="vss\edge69091662.def.xml" id="vss69091662" lanes="69091662_0"/>
+<variableSpeedSign file="vss\edge201331144.def.xml" id="vss201331144" lanes="201331144_1 201331144_0"/>
+<variableSpeedSign file="vss\edge5077407.def.xml" id="vss5077407" lanes="5077407_0 5077407_1 5077407_2 5077407_3"/>
+<variableSpeedSign file="vss\edge325863620.def.xml" id="vss325863620" lanes="325863620_0"/>
+<variableSpeedSign file="vss\edge166914724.def.xml" id="vss166914724" lanes="166914724_3 166914724_1 166914724_2 166914724_0"/>
+<variableSpeedSign file="vss\edge338209142.def.xml" id="vss338209142" lanes="338209142_1 338209142_2 338209142_0 338209142_3"/>
+<variableSpeedSign file="vss\edge188639781.def.xml" id="vss188639781" lanes="188639781_0 188639781_1"/>
+<variableSpeedSign file="vss\edge245123471.def.xml" id="vss245123471" lanes="245123471_4 245123471_3 245123471_2 245123471_1 245123471_0"/>
+<variableSpeedSign file="vss\edge301084468.def.xml" id="vss301084468" lanes="301084468_2 301084468_1 301084468_0"/>
+<variableSpeedSign file="vss\edge219698232.def.xml" id="vss219698232" lanes="219698232_0 219698232_1"/>
+<variableSpeedSign file="vss\edge302370858.def.xml" id="vss302370858" lanes="302370858_1 302370858_0"/>
+<variableSpeedSign file="vss\edge208913388.def.xml" id="vss208913388" lanes="208913388_1 208913388_2 208913388_0"/>
+<variableSpeedSign file="vss\edge155563747.def.xml" id="vss155563747" lanes="155563747_1 155563747_0 155563747_2"/>
+<variableSpeedSign file="vss\edge352041950.def.xml" id="vss352041950" lanes="352041950_1 352041950_0"/>
+<variableSpeedSign file="vss\edge-225926829.def.xml" id="vss-225926829" lanes="-225926829_1 -225926829_0"/>
+<variableSpeedSign file="vss\edge157434654s4.def.xml" id="vss157434654#4" lanes="157434654#4_1 157434654#4_0"/>
+<variableSpeedSign file="vss\edge26784170s0.def.xml" id="vss26784170#0" lanes="26784170#0_0 26784170#0_1"/>
+<variableSpeedSign file="vss\edge208913381.def.xml" id="vss208913381" lanes="208913381_0 208913381_1 208913381_2"/>
+<variableSpeedSign file="vss\edge132624375.def.xml" id="vss132624375" lanes="132624375_0 132624375_1 132624375_2 132624375_3 132624375_4"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_0_208883386#0_0" lane="208883386#0_0" pos="35.33"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_0_37372948_0" lane="37372948_0" pos="318.09"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_0_5367035_0" lane="5367035_0" pos="290.51"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_0_5367050_0" lane="5367050_0" pos="327.58"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_1_132624473_0" lane="132624473_0" pos="0"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_1_208913390_0" lane="208913390_0" pos="0"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_1_254138019_0" lane="254138019_0" pos="0"/>
+<inductionLoop file="loop.out.xml" freq="100" id="loop_1_132624485_0" lane="132624485_0" pos="0"/>
+</additional>
